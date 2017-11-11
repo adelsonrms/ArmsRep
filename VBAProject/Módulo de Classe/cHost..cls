@@ -13,9 +13,9 @@ End Sub
 
 Private Sub Class_Initialize()
     Set Editor = New VBEditor
-    Editor.PastaBackup = "P:\Store\Cloud\GitHub\Repositorios\ArmsRep"
     Set appHost = Application
 End Sub
 
 Sub DefinirParametros(strPastaBackup As String)
     Editor.PastaBackup = strPastaBackup
+End Sub
