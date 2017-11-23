@@ -1,0 +1,9 @@
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\bin\Release\BLL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\bin\Release\BLL.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\bin\Release\DAL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\bin\Release\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\bin\Release\DAL.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\bin\Release\DTO.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\obj\Release\BLL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\BLL\obj\Release\BLL.pdb

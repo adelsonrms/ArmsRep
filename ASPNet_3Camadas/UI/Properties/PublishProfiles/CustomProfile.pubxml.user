@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6lx6azTyxU60GgEz8IUg1AAAAAACAAAAAAAQZgAAAAEAACAAAAA8oxVQ9/9A4p6NpR9LoYrbi1fljk5xwDGFQCP9DpCnIQAAAAAOgAAAAAIAACAAAADU86GW3tU0b3bmMiDHE+V/eBnUVQLgGiGaUTmEH5CPVCAAAAAcmBaaga5Z693xjKRnkgKyh5uwwrEldUocuOhcwQw5JkAAAABcOlkDg6XGcxmE4hajlqQfOdCW+373IhaLvK2/PR+tpydar/g5JxoW9nDBjHMf6E9Tt2e/8szCQEAbX1LfUNzn</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.armstech.com.br/httpdocs</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BLL.dll">
+      <publishTime>04/14/2017 03:41:46</publishTime>
+    </File>
+    <File Include="bin/BLL.pdb">
+      <publishTime>04/14/2017 03:41:46</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>04/14/2017 03:41:46</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>04/14/2017 03:41:46</publishTime>
+    </File>
+    <File Include="bin/DTO.dll">
+      <publishTime>04/14/2017 03:41:46</publishTime>
+    </File>
+    <File Include="bin/DTO.pdb">
+      <publishTime>04/14/2017 03:41:46</publishTime>
+    </File>
+    <File Include="bin/UI.dll">
+      <publishTime>04/14/2017 03:58:50</publishTime>
+    </File>
+    <File Include="bin/UI.pdb">
+      <publishTime>04/14/2017 03:58:50</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/14/2017 03:07:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/14/2017 03:58:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

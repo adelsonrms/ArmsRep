@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.WEB", "UI\UI.WEB.csproj", "{3B2B6624-B50B-48BD-B672-57B3AAF92018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{C8121A48-4B98-4DE1-B8C0-EDA059A475E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0E2F7204-877E-435F-8C5C-5121C7EB0658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{1F438174-9A7F-4CE5-AC39-F3C1361DCC7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivos", "Arquivos", "{BC75487A-C82B-4B2D-BA62-91A31F34A5E3}"
+	ProjectSection(SolutionItems) = preProject
+		Anotações.txt = Anotações.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.WF", "UI.WF\UI.WF.csproj", "{E7F1E832-5990-4BBF-AC4B-B166919EB4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Console.Testes", "UI.Console.Testes\UI.Console.Testes.csproj", "{120D0EA2-9CB7-446D-A135-2FC636999EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO.ClienteTest", "ClasseClienteTest\DTO.ClienteTest.csproj", "{A49D518C-AF69-434E-868D-C5D7826AFE4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{52B8D94B-CBD1-4AB4-8F21-B8CD89FEB544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2B6624-B50B-48BD-B672-57B3AAF92018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2B6624-B50B-48BD-B672-57B3AAF92018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2B6624-B50B-48BD-B672-57B3AAF92018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2B6624-B50B-48BD-B672-57B3AAF92018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8121A48-4B98-4DE1-B8C0-EDA059A475E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8121A48-4B98-4DE1-B8C0-EDA059A475E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8121A48-4B98-4DE1-B8C0-EDA059A475E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8121A48-4B98-4DE1-B8C0-EDA059A475E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2F7204-877E-435F-8C5C-5121C7EB0658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2F7204-877E-435F-8C5C-5121C7EB0658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2F7204-877E-435F-8C5C-5121C7EB0658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2F7204-877E-435F-8C5C-5121C7EB0658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F438174-9A7F-4CE5-AC39-F3C1361DCC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F438174-9A7F-4CE5-AC39-F3C1361DCC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F438174-9A7F-4CE5-AC39-F3C1361DCC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F438174-9A7F-4CE5-AC39-F3C1361DCC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F1E832-5990-4BBF-AC4B-B166919EB4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F1E832-5990-4BBF-AC4B-B166919EB4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F1E832-5990-4BBF-AC4B-B166919EB4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F1E832-5990-4BBF-AC4B-B166919EB4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120D0EA2-9CB7-446D-A135-2FC636999EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120D0EA2-9CB7-446D-A135-2FC636999EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120D0EA2-9CB7-446D-A135-2FC636999EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120D0EA2-9CB7-446D-A135-2FC636999EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49D518C-AF69-434E-868D-C5D7826AFE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49D518C-AF69-434E-868D-C5D7826AFE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49D518C-AF69-434E-868D-C5D7826AFE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49D518C-AF69-434E-868D-C5D7826AFE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A49D518C-AF69-434E-868D-C5D7826AFE4E} = {52B8D94B-CBD1-4AB4-8F21-B8CD89FEB544}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://armstech.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BLL\\BLL.csproj
+		SccProjectName1 = BLL
+		SccLocalPath1 = BLL
+		SccProjectUniqueName2 = DAL\\DAL.csproj
+		SccProjectName2 = DAL
+		SccLocalPath2 = DAL
+		SccProjectUniqueName3 = DTO\\DTO.csproj
+		SccProjectName3 = DTO
+		SccLocalPath3 = DTO
+		SccProjectUniqueName4 = UI.WF\\UI.WF.csproj
+		SccProjectName4 = UI.WF
+		SccLocalPath4 = UI.WF
+		SccProjectUniqueName5 = UI.Console.Testes\\UI.Console.Testes.csproj
+		SccProjectName5 = UI.Console.Testes
+		SccLocalPath5 = UI.Console.Testes
+		SccProjectUniqueName6 = UI\\UI.WEB.csproj
+		SccProjectName6 = UI
+		SccLocalPath6 = UI
+		SccProjectUniqueName7 = ClasseClienteTest\\DTO.ClienteTest.csproj
+		SccProjectTopLevelParentUniqueName7 = ASPNet_3Camadas.sln
+		SccProjectName7 = ClasseClienteTest
+		SccLocalPath7 = ClasseClienteTest
+	EndGlobalSection
+EndGlobal

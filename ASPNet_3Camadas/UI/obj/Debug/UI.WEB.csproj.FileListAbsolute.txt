@@ -1,0 +1,12 @@
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\UI.dll.config
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\UI.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\UI.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\BLL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\DAL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\BLL.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\DTO.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\bin\DAL.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\obj\Debug\UI.WEB.csprojResolveAssemblyReference.cache
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\obj\Debug\UI.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI\obj\Debug\UI.pdb

@@ -1,0 +1,4 @@
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\DTO\bin\Release\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\DTO\bin\Release\DTO.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\DTO\obj\Release\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\DTO\obj\Release\DTO.pdb

@@ -1,0 +1,14 @@
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\ClasseClienteTest.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\ClasseClienteTest.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\DTO.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\obj\Debug\DTO.ClienteTest.csprojResolveAssemblyReference.cache
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\obj\Debug\ClasseClienteTest.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\ClasseClienteTest\obj\Debug\ClasseClienteTest.pdb

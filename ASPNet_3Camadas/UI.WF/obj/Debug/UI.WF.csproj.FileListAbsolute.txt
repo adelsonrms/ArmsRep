@@ -1,0 +1,15 @@
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\UI.WF.exe
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\UI.WF.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\obj\Debug\UI.WF.csprojResolveAssemblyReference.cache
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\obj\Debug\UI.WF.Form1.resources
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\obj\Debug\UI.WF.Properties.Resources.resources
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\obj\Debug\UI.WF.csproj.GenerateResource.Cache
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\obj\Debug\UI.WF.exe
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\obj\Debug\UI.WF.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\BLL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\DAL.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\BLL.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\DTO.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\DAL.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.WF\bin\Debug\UI.WF.exe.config

@@ -1,0 +1,8 @@
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\bin\Debug\UI.Console.Testes.exe.config
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\bin\Debug\UI.Console.Testes.exe
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\bin\Debug\UI.Console.Testes.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\bin\Debug\DTO.dll
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\bin\Debug\DTO.pdb
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\obj\Debug\UI.Console.Testes.csprojResolveAssemblyReference.cache
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\obj\Debug\UI.Console.Testes.exe
+D:\Data\Dev\VisualStudio\TFSProjects\ARMSTECH\Estudos\ASPNet_3Camadas\UI.Console.Testes\obj\Debug\UI.Console.Testes.pdb
